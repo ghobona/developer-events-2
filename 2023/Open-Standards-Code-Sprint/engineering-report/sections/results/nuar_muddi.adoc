@@ -7,7 +7,7 @@ They startd by reviewing the MUDDI conceptual model. All of the feature types in
 
 [[img_nuar_muddi_database]]
 .Illustration of a MUDDI logical schema for a relational database
-image::images/nuar_muddi_database.png[]
+image::../images/nuar_muddi_database.png[]
 
 The figure shows the tables that were created and how they relate to another another. As shown on the figure, there is big table in the middle which ensures that you can record a MUDDI Event type. The sprint participants had to create a relationship table to document relationships between different tables. Another example of a table that had to be created to support representation of MUDDI in a relational model is the accessory tables e.g. for linking conveyance information against network information. The figure has been created using an online tool called dbdocs.io. 
 
